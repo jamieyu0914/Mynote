@@ -1,0 +1,15 @@
+blockquote {
+  border-left: #eee solid 5px;
+  padding-left: 20px;
+}
+* {
+  word-wrap: break-word;
+}
+ul li {
+  line-height: 20px;
+}
+
+code {
+  color: #d34b62;
+  background: #f6f6f6;
+}
